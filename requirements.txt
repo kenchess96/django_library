@@ -35,5 +35,5 @@ sklearn==0.0
 SQLAlchemy==1.2.12
 sqlparse==0.3.0
 virtualenv==16.7.9
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 whitenoise==5.0.1
